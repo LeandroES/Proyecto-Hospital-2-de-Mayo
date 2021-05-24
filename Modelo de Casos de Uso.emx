@@ -1103,7 +1103,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_5M8zwLZ3EeuLHNI_sYB6Jw" navigableOwnedEnd="_5M9a0LZ3EeuLHNI_sYB6Jw">
       <ownedEnd xmi:id="_5M9a0LZ3EeuLHNI_sYB6Jw" name="cI_Consultar Proyecto de Oficio" visibility="private" association="_5M8zwLZ3EeuLHNI_sYB6Jw">
-        <type xmi:type="uml:Class" href="Modelo%20de%20Análisis.emx#_dEoeMLZ3EeuLHNI_sYB6Jw?Modelo%20de%20Análisis/Documentación/CI_Consultar%20Proyecto%20de%20Oficio?"/>
+        <type xmi:type="uml:Class" href="Modelo%20de%20Análisis.emx#_dEoeMLZ3EeuLHNI_sYB6Jw?Modelo%20de%20Análisis/Documentación/CI_Generar%20Proyecto%20de%20Oficio?"/>
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_5M9a0rZ3EeuLHNI_sYB6Jw" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_5M9a0bZ3EeuLHNI_sYB6Jw" value="1"/>
       </ownedEnd>
@@ -1118,6 +1118,39 @@
       </ownedEnd>
       <memberEnd href="#_AwDY0LZ4EeuLHNI_sYB6Jw?Modelo%20de%20Casos%20de%20Uso/Actores/%3CAsociación%3E/cI_Menu%20Principal?"/>
       <memberEnd href="Modelo%20de%20Análisis.emx#_AwD_4LZ4EeuLHNI_sYB6Jw?Modelo%20de%20Análisis/Documentación/CI_Menu%20Principal/director%20General%20del%20Hospital?"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_gP_g4LxfEeumzNsX9QyLMg" memberEnd="_gQAH8LxfEeumzNsX9QyLMg _gQBWELxfEeumzNsX9QyLMg" navigableOwnedEnd="_gQAH8LxfEeumzNsX9QyLMg">
+      <ownedEnd xmi:id="_gQAH8LxfEeumzNsX9QyLMg" name="formbuscar_trabajador" visibility="private" association="_gP_g4LxfEeumzNsX9QyLMg">
+        <type xmi:type="uml:Class" href="Modelo%20de%20Diseño%20con%20MVC.emx#_2ZOY0LtiEeuZUa-A2GL6Bw?Modelo%20de%20Diseño%20con%20MVC/Capas/Presentacion/Trabajador/formbuscar_trabajador?"/>
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_gQAvAbxfEeumzNsX9QyLMg" value="1"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_gQAvALxfEeumzNsX9QyLMg"/>
+      </ownedEnd>
+      <ownedEnd xmi:id="_gQBWELxfEeumzNsX9QyLMg" name="" visibility="private" type="_MHRewJ7JEeu1uuApwFjrYA" association="_gP_g4LxfEeumzNsX9QyLMg">
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_gQB9IbxfEeumzNsX9QyLMg" value="*"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_gQB9ILxfEeumzNsX9QyLMg"/>
+      </ownedEnd>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_gvjKsLxfEeumzNsX9QyLMg" memberEnd="_gvkY0LxfEeumzNsX9QyLMg _gvk_4LxfEeumzNsX9QyLMg" navigableOwnedEnd="_gvkY0LxfEeumzNsX9QyLMg">
+      <ownedEnd xmi:id="_gvkY0LxfEeumzNsX9QyLMg" name="formgenerar_acc_personal" visibility="private" association="_gvjKsLxfEeumzNsX9QyLMg">
+        <type xmi:type="uml:Class" href="Modelo%20de%20Diseño%20con%20MVC.emx#_db2nMLtgEeuZUa-A2GL6Bw?Modelo%20de%20Diseño%20con%20MVC/Capas/Presentacion/Documentacion/formgenerar_acc_personal?"/>
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_gvkY0rxfEeumzNsX9QyLMg" value="1"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_gvkY0bxfEeumzNsX9QyLMg"/>
+      </ownedEnd>
+      <ownedEnd xmi:id="_gvk_4LxfEeumzNsX9QyLMg" name="" visibility="private" type="_MHRewJ7JEeu1uuApwFjrYA" association="_gvjKsLxfEeumzNsX9QyLMg">
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_gvlm8bxfEeumzNsX9QyLMg" value="*"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_gvlm8LxfEeumzNsX9QyLMg"/>
+      </ownedEnd>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_h6xnsLxfEeumzNsX9QyLMg" memberEnd="_h6yOwLxfEeumzNsX9QyLMg _h6zc4LxfEeumzNsX9QyLMg" navigableOwnedEnd="_h6yOwLxfEeumzNsX9QyLMg">
+      <ownedEnd xmi:id="_h6yOwLxfEeumzNsX9QyLMg" name="menup.jsp_client" visibility="private" association="_h6xnsLxfEeumzNsX9QyLMg">
+        <type xmi:type="uml:Class" href="Modelo%20de%20Diseño%20con%20MVC.emx#_SFn5ULthEeuZUa-A2GL6Bw?Modelo%20de%20Diseño%20con%20MVC/Capas/Presentacion/GUIComun/menup.jsp_client?"/>
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_h6y10bxfEeumzNsX9QyLMg" value="1"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_h6y10LxfEeumzNsX9QyLMg"/>
+      </ownedEnd>
+      <ownedEnd xmi:id="_h6zc4LxfEeumzNsX9QyLMg" name="" visibility="private" type="_MHRewJ7JEeu1uuApwFjrYA" association="_h6xnsLxfEeumzNsX9QyLMg">
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_h60D8LxfEeumzNsX9QyLMg" value="*"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_h6zc4bxfEeumzNsX9QyLMg"/>
+      </ownedEnd>
     </packagedElement>
   </packagedElement>
   <packagedElement xmi:type="uml:Package" xmi:id="_ku-fMJ7HEeu1uuApwFjrYA" name="Casos de Uso">
