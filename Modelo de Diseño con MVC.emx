@@ -2755,7 +2755,7 @@
                   <children xmi:type="notation:SemanticListCompartment" xmi:id="_f005krw4EeuB9_yhFZvkhA" type="OperationCompartment"/>
                   <children xmi:type="notation:SemanticListCompartment" xmi:id="_f005k7w4EeuB9_yhFZvkhA" visible="false" type="SignalCompartment"/>
                   <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_f01goLw4EeuB9_yhFZvkhA" visible="false" type="StructureCompartment"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f0zrcbw4EeuB9_yhFZvkhA" x="31152" y="4092"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f0zrcbw4EeuB9_yhFZvkhA" x="31750" y="5207"/>
                 </children>
                 <children xmi:type="umlnotation:UMLShape" xmi:id="_f-snQLw4EeuB9_yhFZvkhA" element="_f-sAMLw4EeuB9_yhFZvkhA" fontName="Segoe UI" fontHeight="8" showListSignature="true" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
                   <children xmi:type="notation:DecorationNode" xmi:id="_f-tOULw4EeuB9_yhFZvkhA" type="ImageCompartment">
@@ -2768,7 +2768,7 @@
                   <children xmi:type="notation:SemanticListCompartment" xmi:id="_f-t1ZLw4EeuB9_yhFZvkhA" type="OperationCompartment"/>
                   <children xmi:type="notation:SemanticListCompartment" xmi:id="_f-uccLw4EeuB9_yhFZvkhA" visible="false" type="SignalCompartment"/>
                   <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_f-uccbw4EeuB9_yhFZvkhA" visible="false" type="StructureCompartment"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f-snQbw4EeuB9_yhFZvkhA" x="25080" y="4620"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f-snQbw4EeuB9_yhFZvkhA" x="25400" y="5207"/>
                 </children>
                 <children xmi:type="umlnotation:UMLShape" xmi:id="_gJF5YLw4EeuB9_yhFZvkhA" element="_gJErQLw4EeuB9_yhFZvkhA" fontName="Segoe UI" fontHeight="8" showListSignature="true" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
                   <children xmi:type="notation:DecorationNode" xmi:id="_gJGgcLw4EeuB9_yhFZvkhA" type="ImageCompartment">
@@ -2781,7 +2781,7 @@
                   <children xmi:type="notation:SemanticListCompartment" xmi:id="_gJHHgrw4EeuB9_yhFZvkhA" type="OperationCompartment"/>
                   <children xmi:type="notation:SemanticListCompartment" xmi:id="_gJHHg7w4EeuB9_yhFZvkhA" visible="false" type="SignalCompartment"/>
                   <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_gJHukLw4EeuB9_yhFZvkhA" visible="false" type="StructureCompartment"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gJF5Ybw4EeuB9_yhFZvkhA" x="25476" y="1980"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gJF5Ybw4EeuB9_yhFZvkhA" x="25400" y="1016"/>
                 </children>
                 <children xmi:type="umlnotation:UMLShape" xmi:id="_gQoEwLw4EeuB9_yhFZvkhA" element="_gQm2oLw4EeuB9_yhFZvkhA" fontName="Segoe UI" fontHeight="8" showListSignature="true" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
                   <children xmi:type="notation:DecorationNode" xmi:id="_gQoEwrw4EeuB9_yhFZvkhA" type="ImageCompartment">
@@ -2807,7 +2807,7 @@
                   <children xmi:type="notation:SemanticListCompartment" xmi:id="_gbIElLw4EeuB9_yhFZvkhA" type="OperationCompartment"/>
                   <children xmi:type="notation:SemanticListCompartment" xmi:id="_gbIroLw4EeuB9_yhFZvkhA" visible="false" type="SignalCompartment"/>
                   <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_gbIrobw4EeuB9_yhFZvkhA" visible="false" type="StructureCompartment"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gbHdgbw4EeuB9_yhFZvkhA" x="31152" y="1980"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gbHdgbw4EeuB9_yhFZvkhA" x="31115" y="1016"/>
                 </children>
                 <children xmi:type="umlnotation:UMLShape" xmi:id="_gjIxELw4EeuB9_yhFZvkhA" element="_gjG74Lw4EeuB9_yhFZvkhA" fontName="Segoe UI" fontHeight="8" showListSignature="true" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
                   <children xmi:type="notation:DecorationNode" xmi:id="_gjJYILw4EeuB9_yhFZvkhA" type="ImageCompartment">
@@ -2929,9 +2929,101 @@
                 <ownedParameter xmi:id="_in77kLxSEeumzNsX9QyLMg" name="Parámetro1" type="_DT0XMLw4EeuB9_yhFZvkhA" direction="return"/>
               </ownedOperation>
             </packagedElement>
-            <packagedElement xmi:type="uml:Class" xmi:id="_f0zEYLw4EeuB9_yhFZvkhA" name="BeanDepartamento"/>
-            <packagedElement xmi:type="uml:Class" xmi:id="_f-sAMLw4EeuB9_yhFZvkhA" name="BeanInformeEscalafon"/>
-            <packagedElement xmi:type="uml:Class" xmi:id="_gJErQLw4EeuB9_yhFZvkhA" name="BeanDistrito"/>
+            <packagedElement xmi:type="uml:Class" xmi:id="_f0zEYLw4EeuB9_yhFZvkhA" name="BeanDepartamento">
+              <ownedAttribute xmi:id="_YbsK0L6TEeuSAYUeyHkFgw" name="Coddept" visibility="private">
+                <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+              </ownedAttribute>
+              <ownedAttribute xmi:id="_cbNUYL6TEeuSAYUeyHkFgw" name="Nombre" visibility="private">
+                <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+              </ownedAttribute>
+              <ownedOperation xmi:id="_unj6oL6UEeuSAYUeyHkFgw" name="BeanDepartamento"/>
+              <ownedOperation xmi:id="_w_kT0L6UEeuSAYUeyHkFgw" name="setCoddept">
+                <ownedParameter xmi:id="_5n2_UL6UEeuSAYUeyHkFgw" name="Coddept">
+                  <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+                </ownedParameter>
+              </ownedOperation>
+              <ownedOperation xmi:id="_5_ajsL6UEeuSAYUeyHkFgw" name="getCoddept">
+                <ownedParameter xmi:id="_8rjZ0L6UEeuSAYUeyHkFgw" name="Parámetro1" direction="return">
+                  <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+                </ownedParameter>
+              </ownedOperation>
+              <ownedOperation xmi:id="_9zIs8L6UEeuSAYUeyHkFgw" name="setNombre">
+                <ownedParameter xmi:id="_CKIiYL6VEeuSAYUeyHkFgw" name="Nombre">
+                  <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+                </ownedParameter>
+              </ownedOperation>
+              <ownedOperation xmi:id="_-ZAaIL6UEeuSAYUeyHkFgw" name="getNombre">
+                <ownedParameter xmi:id="_EMbxUL6VEeuSAYUeyHkFgw" name="Parámetro1" direction="return">
+                  <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+                </ownedParameter>
+              </ownedOperation>
+            </packagedElement>
+            <packagedElement xmi:type="uml:Class" xmi:id="_f-sAMLw4EeuB9_yhFZvkhA" name="BeanInformeEscalafon">
+              <ownedAttribute xmi:id="_fVLyML6TEeuSAYUeyHkFgw" name="NumInforme" visibility="private">
+                <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+              </ownedAttribute>
+              <ownedAttribute xmi:id="_iVTUQL6TEeuSAYUeyHkFgw" name="Vigencia" visibility="private" type="_DT0XMLw4EeuB9_yhFZvkhA"/>
+              <ownedAttribute xmi:id="_k6JPkL6TEeuSAYUeyHkFgw" name="Observacion" visibility="private">
+                <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+              </ownedAttribute>
+              <ownedOperation xmi:id="_Fgk5wL6VEeuSAYUeyHkFgw" name="BeanInformeEscalafon"/>
+              <ownedOperation xmi:id="_ImorwL6VEeuSAYUeyHkFgw" name="setNumInforme">
+                <ownedParameter xmi:id="_QADJUL6VEeuSAYUeyHkFgw" name="NumInforme">
+                  <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+                </ownedParameter>
+              </ownedOperation>
+              <ownedOperation xmi:id="_RlgEML6VEeuSAYUeyHkFgw" name="getNumInforme">
+                <ownedParameter xmi:id="_TPv_gL6VEeuSAYUeyHkFgw" name="Parámetro1" direction="return">
+                  <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+                </ownedParameter>
+              </ownedOperation>
+              <ownedOperation xmi:id="_TyNMUL6VEeuSAYUeyHkFgw" name="setVigencia">
+                <ownedParameter xmi:id="_XG4pIL6VEeuSAYUeyHkFgw" name="Vigencia" type="_DT0XMLw4EeuB9_yhFZvkhA"/>
+              </ownedOperation>
+              <ownedOperation xmi:id="_YEmOkL6VEeuSAYUeyHkFgw" name="getVigencia">
+                <ownedParameter xmi:id="_Z-RtAL6VEeuSAYUeyHkFgw" name="Parámetro1" type="_DT0XMLw4EeuB9_yhFZvkhA" direction="return"/>
+              </ownedOperation>
+              <ownedOperation xmi:id="_aaSTkL6VEeuSAYUeyHkFgw" name="setObservacion">
+                <ownedParameter xmi:id="_gPU0UL6VEeuSAYUeyHkFgw" name="Observacion">
+                  <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+                </ownedParameter>
+              </ownedOperation>
+              <ownedOperation xmi:id="_gvm24L6VEeuSAYUeyHkFgw" name="getObservacion">
+                <ownedParameter xmi:id="_iO5fYL6VEeuSAYUeyHkFgw" name="Parámetro1" direction="return">
+                  <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+                </ownedParameter>
+              </ownedOperation>
+            </packagedElement>
+            <packagedElement xmi:type="uml:Class" xmi:id="_gJErQLw4EeuB9_yhFZvkhA" name="BeanDistrito">
+              <ownedAttribute xmi:id="_C5spAL6TEeuSAYUeyHkFgw" name="Coddist" visibility="private">
+                <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+              </ownedAttribute>
+              <ownedAttribute xmi:id="_O9o8AL6TEeuSAYUeyHkFgw" name="Nombre" visibility="private">
+                <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+              </ownedAttribute>
+              <ownedAttribute xmi:id="_Hk0e4L6UEeuSAYUeyHkFgw" name="atributo1" visibility="private"/>
+              <ownedOperation xmi:id="_tktL8L6TEeuSAYUeyHkFgw" name="BeanDistrito"/>
+              <ownedOperation xmi:id="_yOL4gL6TEeuSAYUeyHkFgw" name="setCoddist">
+                <ownedParameter xmi:id="_Atn9kL6UEeuSAYUeyHkFgw" name="Coddist">
+                  <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+                </ownedParameter>
+              </ownedOperation>
+              <ownedOperation xmi:id="_Bad1cL6UEeuSAYUeyHkFgw" name="getCoddist">
+                <ownedParameter xmi:id="_G4bS8L6UEeuSAYUeyHkFgw" name="Parámetro1" direction="return">
+                  <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+                </ownedParameter>
+              </ownedOperation>
+              <ownedOperation xmi:id="_IkSX0L6UEeuSAYUeyHkFgw" name="setNombre">
+                <ownedParameter xmi:id="_Pd23sL6UEeuSAYUeyHkFgw" name="Nombre">
+                  <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+                </ownedParameter>
+              </ownedOperation>
+              <ownedOperation xmi:id="_Rd3AkL6UEeuSAYUeyHkFgw" name="getNombre">
+                <ownedParameter xmi:id="_UCYLwL6UEeuSAYUeyHkFgw" name="Parámetro1" direction="return">
+                  <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+                </ownedParameter>
+              </ownedOperation>
+            </packagedElement>
             <packagedElement xmi:type="uml:Class" xmi:id="_gQm2oLw4EeuB9_yhFZvkhA" name="BeanAccionDePersonal">
               <ownedAttribute xmi:id="_--pkYLxQEeumzNsX9QyLMg" name="NumeroAccion" visibility="private">
                 <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
@@ -2968,7 +3060,35 @@
                 </ownedParameter>
               </ownedOperation>
             </packagedElement>
-            <packagedElement xmi:type="uml:Class" xmi:id="_gbFoULw4EeuB9_yhFZvkhA" name="BeanProvincia"/>
+            <packagedElement xmi:type="uml:Class" xmi:id="_gbFoULw4EeuB9_yhFZvkhA" name="BeanProvincia">
+              <ownedAttribute xmi:id="_TY_tAL6TEeuSAYUeyHkFgw" name="Codpro" visibility="private">
+                <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+              </ownedAttribute>
+              <ownedAttribute xmi:id="_WVzcYL6TEeuSAYUeyHkFgw" name="Nombre" visibility="private">
+                <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+              </ownedAttribute>
+              <ownedOperation xmi:id="_U7SJsL6UEeuSAYUeyHkFgw" name="BeanProvincia"/>
+              <ownedOperation xmi:id="_XeefML6UEeuSAYUeyHkFgw" name="setCoddist">
+                <ownedParameter xmi:id="_cxAv0L6UEeuSAYUeyHkFgw" name="Codpro">
+                  <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+                </ownedParameter>
+              </ownedOperation>
+              <ownedOperation xmi:id="_dZGDgL6UEeuSAYUeyHkFgw" name="getCodpro">
+                <ownedParameter xmi:id="_iUFW0L6UEeuSAYUeyHkFgw" name="Parámetro1" direction="return">
+                  <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+                </ownedParameter>
+              </ownedOperation>
+              <ownedOperation xmi:id="_pY8gsL6UEeuSAYUeyHkFgw" name="setNombre">
+                <ownedParameter xmi:id="_rsfQoL6UEeuSAYUeyHkFgw" name="Nombre">
+                  <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+                </ownedParameter>
+              </ownedOperation>
+              <ownedOperation xmi:id="_r8xvYL6UEeuSAYUeyHkFgw" name="getNombre">
+                <ownedParameter xmi:id="_tzZSwL6UEeuSAYUeyHkFgw" name="Parámetro1" direction="return">
+                  <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+                </ownedParameter>
+              </ownedOperation>
+            </packagedElement>
             <packagedElement xmi:type="uml:Class" xmi:id="_gjG74Lw4EeuB9_yhFZvkhA" name="BeanTrabajador">
               <ownedAttribute xmi:id="_C73A0LxREeumzNsX9QyLMg" name="Cod" visibility="private">
                 <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
