@@ -1152,6 +1152,39 @@
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_h6zc4bxfEeumzNsX9QyLMg"/>
       </ownedEnd>
     </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_rltEYL9eEeuCo5x-6zm8ww" memberEnd="_rltrcL9eEeuCo5x-6zm8ww _rlu5kL9eEeuCo5x-6zm8ww" navigableOwnedEnd="_rltrcL9eEeuCo5x-6zm8ww">
+      <ownedEnd xmi:id="_rltrcL9eEeuCo5x-6zm8ww" name="formgenerar_inf_escalafon" visibility="private" association="_rltEYL9eEeuCo5x-6zm8ww">
+        <type xmi:type="uml:Class" href="Modelo%20de%20Diseño%20con%20MVC.emx#_d2BasLtgEeuZUa-A2GL6Bw?Modelo%20de%20Diseño%20con%20MVC/Capas/Presentacion/Documentacion/formgenerar_inf_escalafon?"/>
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_rluSgb9eEeuCo5x-6zm8ww" value="1"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_rluSgL9eEeuCo5x-6zm8ww"/>
+      </ownedEnd>
+      <ownedEnd xmi:id="_rlu5kL9eEeuCo5x-6zm8ww" name="" visibility="private" type="_MHRewJ7JEeu1uuApwFjrYA" association="_rltEYL9eEeuCo5x-6zm8ww">
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_rlvgoL9eEeuCo5x-6zm8ww" value="*"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_rlu5kb9eEeuCo5x-6zm8ww"/>
+      </ownedEnd>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_g8-0YL9tEeuCo5x-6zm8ww" memberEnd="_g9ACgL9tEeuCo5x-6zm8ww _g9ApkL9tEeuCo5x-6zm8ww" navigableOwnedEnd="_g9ACgL9tEeuCo5x-6zm8ww">
+      <ownedEnd xmi:id="_g9ACgL9tEeuCo5x-6zm8ww" name="formgenerar_cronograma" visibility="private" association="_g8-0YL9tEeuCo5x-6zm8ww">
+        <type xmi:type="uml:Class" href="Modelo%20de%20Diseño%20con%20MVC.emx#_9ZF1ULtfEeuZUa-A2GL6Bw?Modelo%20de%20Diseño%20con%20MVC/Capas/Presentacion/Cronograma/formgenerar_cronograma?"/>
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_g9ACgr9tEeuCo5x-6zm8ww" value="1"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_g9ACgb9tEeuCo5x-6zm8ww"/>
+      </ownedEnd>
+      <ownedEnd xmi:id="_g9ApkL9tEeuCo5x-6zm8ww" name="" visibility="private" type="_IcRMoJ7JEeu1uuApwFjrYA" association="_g8-0YL9tEeuCo5x-6zm8ww">
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_g9BQob9tEeuCo5x-6zm8ww" value="*"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_g9BQoL9tEeuCo5x-6zm8ww"/>
+      </ownedEnd>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_hlHycL9tEeuCo5x-6zm8ww" memberEnd="_hlIZgL9tEeuCo5x-6zm8ww _hlJnoL9tEeuCo5x-6zm8ww" navigableOwnedEnd="_hlIZgL9tEeuCo5x-6zm8ww">
+      <ownedEnd xmi:id="_hlIZgL9tEeuCo5x-6zm8ww" name="menup.jsp_client" visibility="private" association="_hlHycL9tEeuCo5x-6zm8ww">
+        <type xmi:type="uml:Class" href="Modelo%20de%20Diseño%20con%20MVC.emx#_SFn5ULthEeuZUa-A2GL6Bw?Modelo%20de%20Diseño%20con%20MVC/Capas/Presentacion/GUIComun/menup.jsp_client?"/>
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_hlJAkb9tEeuCo5x-6zm8ww" value="1"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_hlJAkL9tEeuCo5x-6zm8ww"/>
+      </ownedEnd>
+      <ownedEnd xmi:id="_hlJnoL9tEeuCo5x-6zm8ww" name="" visibility="private" type="_IcRMoJ7JEeu1uuApwFjrYA" association="_hlHycL9tEeuCo5x-6zm8ww">
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_hlKOsb9tEeuCo5x-6zm8ww" value="*"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_hlKOsL9tEeuCo5x-6zm8ww"/>
+      </ownedEnd>
+    </packagedElement>
   </packagedElement>
   <packagedElement xmi:type="uml:Package" xmi:id="_ku-fMJ7HEeu1uuApwFjrYA" name="Casos de Uso">
     <eAnnotations xmi:id="_ku-fMZ7HEeu1uuApwFjrYA" source="uml2.diagrams" references="_ku-fMp7HEeu1uuApwFjrYA">
