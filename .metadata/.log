@@ -145,3 +145,30 @@ Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.ibm.rational
 
 !ENTRY com.ibm.xtools.emf.ram.ui 4 0 2021-05-23 11:33:30.701
 !MESSAGE El Cliente RAM no está instalado. Instale el Cliente RAM para habilitar la funcionalidad de integración de RAM.
+!SESSION 2021-06-24 20:07:13.241 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=JRE 1.6.0 IBM J9 2.4 Windows Vista x86-32 jvmwi3260sr8-20100401_55940 (JIT enabled, AOT enabled)
+J9VM - 20100401_055940
+JIT  - r9_20100401_15339
+GC   - 20100308_AA
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=es_PE
+Framework arguments:  -product com.ibm.rational.rsa.product.v80.ide
+Command-line arguments:  -data D:\CIBERTEC_V_CICLO\Analisis y Diseño de Sistemas II\Proyecto - Oficial\Proyecto-Hospital-2-de-Mayo -os win32 -ws win32 -arch x86 -product com.ibm.rational.rsa.product.v80.ide
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2021-06-24 20:07:20.487
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2021-06-24 20:07:20.507
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2021-06-24 20:07:20.517
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2021-06-24 20:07:20.727
+!MESSAGE LUM license expired for productID 45: Past the expiration date on license.
+
+!ENTRY com.ibm.cic.licensing.common.util 4 0 2021-06-24 20:07:20.784
+!MESSAGE LUM license expired for productID 44: Past the expiration date on license.
+
+!ENTRY com.ibm.xtools.emf.ram.ui 4 0 2021-06-24 20:07:20.867
+!MESSAGE El Cliente RAM no está instalado. Instale el Cliente RAM para habilitar la funcionalidad de integración de RAM.
